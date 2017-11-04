@@ -1,0 +1,13 @@
+.formInfo{
+
+    border-top: 10px solid #442a8d;
+    border-right: 1px solid #442a8d;
+    border-left: 1px solid #442a8d;
+    border-bottom: 1px solid #442a8d;
+    border-radius: 5px;
+}
+.index_page_button{
+    color:  #442a8d;
+    font-size: 18px;
+}
+
